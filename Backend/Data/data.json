@@ -1,0 +1,331 @@
+[
+  {
+    "question": "What is the speed of light",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "A 10 kg mass is moving at a speed of 5 m/s. What is the kinetic energy of the mass?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "A 2.0 nF capacitor is charged to a voltage of 10 V. What is the amount of energy stored in the capacitor?",
+    "subject": "Physics",
+    "topic": "Electricity and Magnetism",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "A light wave has a wavelength of 500 nm. What is the frequency of the light wave?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "A converging lens has a focal length of 20 cm. What is the image distance if the object distance is 30 cm?",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "What is the energy of a photon with a wavelength of 500 nm?",
+    "subject": "Physics",
+    "topic": "Modern Physics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "What is the escape velocity from the surface of Earth?",
+    "subject": "Physics",
+    "topic": "Astronomy",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "A car is accelerating at a rate of 2 m/s^2. What is the car's velocity after 5 seconds?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "A current of 2 A flows through a 10 Ω resistor. What is the power dissipated by the resistor?",
+    "subject": "Physics",
+    "topic": "Electricity and Magnetism",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "A water molecule has a mass of 18 amu. What is the kinetic energy of a water molecule at a temperature of 25°C?",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "A spring has a spring constant of 100 N/m. What is the potential energy stored in the spring when it is compressed by 10 cm?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "A pendulum has a length of 1 m. What is the period of the pendulum?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "A diffraction grating has 1000 slits per mm. What is the wavelength of light that is diffracted at an angle of 30°?",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "A 10 kg mass is moving at a speed of 5 m/s. What is the kinetic energy of the mass?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "A 2.0 nF capacitor is charged to a voltage of 10 V. What is the amount of energy stored in the capacitor?",
+    "subject": "Physics",
+    "topic": "Electricity and Magnetism",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "A light wave has a wavelength of 500 nm. What is the frequency of the light wave?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "A converging lens has a focal length of 20 cm. What is the image distance if the object distance is 30 cm?",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "What is the energy of a photon with a wavelength of 500 nm?",
+    "subject": "Physics",
+    "topic": "Modern Physics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "What is the escape velocity from the surface of Earth?",
+    "subject": "Physics",
+    "topic": "Astronomy",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "A car is accelerating at a rate of 2 m/s^2. What is the car's velocity after 5 seconds?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "A current of 2 A flows through a 10 Ω resistor. What is the power dissipated by the resistor?",
+    "subject": "Physics",
+    "topic": "Electricity and Magnetism",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "A water molecule has a mass of 18 amu. What is the kinetic energy of a water molecule at a temperature of 25°C?",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "A spring has a spring constant of 100 N/m. What is the potential energy stored in the spring when it is compressed by 10 cm?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "A pendulum has a length of 1 m. What is the period of the pendulum?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "A diffraction grating has 1000 slits per mm. What is the wavelength of light that is diffracted at an angle of 30°?",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "A rocket is launched into space with an initial velocity of 20 m/s. Calculate the maximum height reached by the rocket. (Assume no air resistance)",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of quantum entanglement and its implications in quantum mechanics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Derive the expression for the electric field due to a charged infinite plane sheet.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the principles behind the working of a nuclear reactor. Highlight the safety measures involved.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Solve the Schrödinger equation for a particle in a one-dimensional box and find the energy levels.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Examine the phenomenon of gravitational time dilation according to the theory of relativity.",
+    "subject": "Physics",
+    "topic": "Relativity",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the applications of superconductors in various fields of science and technology.",
+    "subject": "Physics",
+    "topic": "Condensed Matter Physics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of dark matter and its role in the universe.",
+    "subject": "Physics",
+    "topic": "Astrophysics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Derive the equation for the heat conduction in a cylindrical rod and discuss its applications.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explore the principles of laser operation and its applications in modern technology.",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "What is the basic idea behind dark matter, and why is it important in understanding the universe?",
+    "subject": "Physics",
+    "topic": "General Science",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "Explain the evidence supporting the existence of dark matter in the cosmos. How does it influence the large-scale structure of the universe?",
+    "subject": "Physics",
+    "topic": "Cosmology",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Elaborate on the role of dark matter in galaxy formation. Discuss its gravitational effects and the impact on the evolution of cosmic structures.",
+    "subject": "Physics",
+    "topic": "Astrophysics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "What are the fundamental particles that make up the standard model of particle physics, and how do they interact with dark matter?",
+    "subject": "Physics",
+    "topic": "Particle Physics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "Explore the possible connections between dark matter and quantum mechanics. How does quantum behavior at the smallest scales relate to the large-scale distribution of dark matter?",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Investigate the potential implications of dark matter in the context of string theory. How does string theory provide a framework for understanding the nature of dark matter?",
+    "subject": "Physics",
+    "topic": "String Theory",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Define dark matter and contrast it with normal matter. How do their properties differ?",
+    "subject": "Physics",
+    "topic": "Astrophysics",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the role of dark matter in the cosmic microwave background (CMB) and its implications for our understanding of the early universe.",
+    "subject": "Physics",
+    "topic": "Cosmology",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of WIMPs (Weakly Interacting Massive Particles) and their potential role as dark matter candidates. What experiments are being conducted to detect WIMPs?",
+    "subject": "Physics",
+    "topic": "Particle Physics",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "How does the discovery of dark matter challenge our traditional understanding of gravity? Discuss the modifications made to gravitational theories to accommodate dark matter.",
+    "subject": "Physics",
+    "topic": "Gravity",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Explore the concept of modified gravity as an alternative explanation to dark matter. What are the key theories in this regard, and what observational evidence supports or challenges them?",
+    "subject": "Physics",
+    "topic": "Cosmology",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "Describe the concept of dark energy and its relationship with dark matter. How do these two components influence the expansion of the universe?",
+    "subject": "Physics",
+    "topic": "Cosmology",
+    "difficulty": "Medium",
+    "marks": 4
+  }
+]
